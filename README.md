@@ -1,3 +1,4 @@
+有问题联系QQ群:935214596
 # Padchat-SDK
 
 <!-- TOC depthFrom:2 -->
