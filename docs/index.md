@@ -1489,7 +1489,7 @@ NOTE: 此接口只能上传图片，并不会将图片发到朋友圈中
 
 <a name="Padchat+queryTransfer"></a>
 
-### ~~padchat.queryTransfer(rawMsgData) ⇒ <code>Promise.&lt;object&gt;</code>~~
+### padchat.queryTransfer(rawMsgData) ⇒ <code>Promise.&lt;object&gt;</code>
 ***Deprecated***
 
 查看转账消息
@@ -1543,7 +1543,7 @@ NOTE: 此接口只能上传图片，并不会将图片发到朋友圈中
 
 <a name="Padchat+acceptTransfer"></a>
 
-### ~~padchat.acceptTransfer(rawMsgData) ⇒ <code>Promise.&lt;object&gt;</code>~~
+### padchat.acceptTransfer(rawMsgData) ⇒ <code>Promise.&lt;object&gt;</code>
 ***Deprecated***
 
 接受转账
@@ -1576,7 +1576,7 @@ NOTE: 此接口只能上传图片，并不会将图片发到朋友圈中
 
 <a name="Padchat+receiveRedPacket"></a>
 
-### ~~padchat.receiveRedPacket(rawMsgData) ⇒ <code>Promise.&lt;object&gt;</code>~~
+### padchat.receiveRedPacket(rawMsgData) ⇒ <code>Promise.&lt;object&gt;</code>
 ***Deprecated***
 
 接收红包
@@ -1625,7 +1625,7 @@ NOTE: 此接口只能上传图片，并不会将图片发到朋友圈中
 
 <a name="Padchat+queryRedPacket"></a>
 
-### ~~padchat.queryRedPacket(rawMsgData, [index]) ⇒ <code>Promise.&lt;object&gt;</code>~~
+### padchat.queryRedPacket(rawMsgData, [index]) ⇒ <code>Promise.&lt;object&gt;</code>
 ***Deprecated***
 
 查看红包信息
@@ -1735,7 +1735,7 @@ NOTE: 如果是别人发的红包，未领取且未领取完毕时，无法取�
 
 <a name="Padchat+openRedPacket"></a>
 
-### ~~padchat.openRedPacket(rawMsgData, key) ⇒ <code>Promise.&lt;object&gt;</code>~~
+### padchat.openRedPacket(rawMsgData, key) ⇒ <code>Promise.&lt;object&gt;</code>
 ***Deprecated***
 
 领取红包
