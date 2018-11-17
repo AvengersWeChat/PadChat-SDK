@@ -64,11 +64,11 @@
         * [.addLabel(label)](#Padchat+addLabel) ⇒ <code>Promise.&lt;object&gt;</code>
         * [.deleteLabel(labelId)](#Padchat+deleteLabel) ⇒ <code>Promise.&lt;object&gt;</code>
         * [.setLabel(userId, labelId)](#Padchat+setLabel) ⇒ <code>Promise.&lt;object&gt;</code>
-        * ~~[.queryTransfer(rawMsgData)](#Padchat+queryTransfer) ⇒ <code>Promise.&lt;object&gt;</code>~~
-        * ~~[.acceptTransfer(rawMsgData)](#Padchat+acceptTransfer) ⇒ <code>Promise.&lt;object&gt;</code>~~
-        * ~~[.receiveRedPacket(rawMsgData)](#Padchat+receiveRedPacket) ⇒ <code>Promise.&lt;object&gt;</code>~~
-        * ~~[.queryRedPacket(rawMsgData, [index])](#Padchat+queryRedPacket) ⇒ <code>Promise.&lt;object&gt;</code>~~
-        * ~~[.openRedPacket(rawMsgData, key)](#Padchat+openRedPacket) ⇒ <code>Promise.&lt;object&gt;</code>~~
+        * [.queryTransfer(rawMsgData)](#Padchat+queryTransfer) ⇒ <code>Promise.&lt;object&gt;</code>
+        * [.acceptTransfer(rawMsgData)](#Padchat+acceptTransfer) ⇒ <code>Promise.&lt;object&gt;</code>
+        * [.receiveRedPacket(rawMsgData)](#Padchat+receiveRedPacket) ⇒ <code>Promise.&lt;object&gt;</code>
+        * [.queryRedPacket(rawMsgData, [index])](#Padchat+queryRedPacket) ⇒ <code>Promise.&lt;object&gt;</code>
+        * [.openRedPacket(rawMsgData, key)](#Padchat+openRedPacket) ⇒ <code>Promise.&lt;object&gt;</code>
         * [.searchMp(content)](#Padchat+searchMp) ⇒ <code>Promise.&lt;object&gt;</code>
         * [.getSubscriptionInfo(ghName)](#Padchat+getSubscriptionInfo) ⇒ <code>Promise.&lt;object&gt;</code>
         * [.operateSubscription(ghName, menuId, menuKey)](#Padchat+operateSubscription) ⇒ <code>Promise.&lt;object&gt;</code>
