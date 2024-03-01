@@ -1,4 +1,4 @@
-有问题联系QQ群:935214596
+[飞机群地址](https://t.me/+zPGvjRT-WO8yNGM1)
 # Padchat-SDK
 
 <!-- TOC depthFrom:2 -->
